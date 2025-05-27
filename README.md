@@ -1,1 +1,13 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/24pP-Pw_)
+Ejercicio 4
+a)En C#, string es un tipo por referencia.
+b)Estas son las secuencias de escape más comunes en C#:
+\\	   Barra invertida (\)
+\'	   Comilla simple (')
+\"	   Comilla doble (")
+\n	   Nueva línea (Line Feed)
+\r	   Retorno de carro (Carriage Return)
+\t	   Tabulación horizontal
+\b	   Retroceso (Backspace)
+\f	   Avance de página (Form Feed)
+\0	   Carácter nulo
+c)Ambos modificadores cambian la forma en que se interpreta la cadena
